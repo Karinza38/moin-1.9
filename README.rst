@@ -1,4 +1,4 @@
- MoinMoin
+  MoinMoin
 ========
 
 MoinMoin is a wiki engine - a software you can use to run your own wiki site.
